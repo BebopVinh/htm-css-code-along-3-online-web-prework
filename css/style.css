@@ -25,4 +25,5 @@ figcaption {
   /* Can also use one line below */
   /* font: normal 0.75em/1.5em Georgia, "New Times Roman", serif; */
   color: #FFFE66; /* Something like #AACC77 can be shorthanded as #AC7 */
+  text-align: right;
 }
