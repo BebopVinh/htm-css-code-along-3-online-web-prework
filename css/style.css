@@ -30,3 +30,11 @@ figcaption {
   color: #FF0000; /* Something like #AACC77 can be shorthanded as #AC7 */
   text-align: right;
 }
+
+/* Class selector (applied to as many elements as you like) */
+
+.milk-text { /*select elements with class="milk-text" */
+  font: bold 2.6em 'Elsie Swash Caps', cursive;
+  color: white;
+  text-shadow: 0 2px 3px #000;
+}
