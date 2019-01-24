@@ -24,7 +24,7 @@ figcaption {
   font-weight: normal;
   font-size: 0.75em
   line-height: 1.5em
-  font-family: Georgia, "New Times Roman"; /* "Quotes are due to spaces existence" */
+  font-family: 'Clicker Script', cursive; /* "Quotes are due to spaces existence" */
   /* Can also use one line below */
   /* font: normal 0.75em/1.5em Georgia, "New Times Roman", serif; */
   color: #FF0000; /* Something like #AACC77 can be shorthanded as #AC7 */
