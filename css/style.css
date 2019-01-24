@@ -15,5 +15,11 @@ p { /*select all <p> */
     font-size: 16px; /* 16px(exact) or ?pt(different in apps) or 100% (relative, depends on element and parents) or 1em */
     line-height: 1.5em;
 }
+/* em = px/16 */
 
-/*em = px/16*/
+figcaption {
+  font-weight: normal;
+  font-size: 0.75em
+  line-height: 1.5em
+  font-family: Georgia, "New Times Roman"; /* "Quotes are due to spaces existence"
+}
