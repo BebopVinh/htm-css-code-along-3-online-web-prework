@@ -1,1 +1,16 @@
 /*This is a comment!*/
+
+/*
+CSS Syntax:
+
+selector {
+  property: value;
+  property: value;
+}
+
+*/
+
+/* Type selector */
+p { /*select all <p> */
+    font-size: 16px; /* 16px(exact) or ?pt(different in apps) or 100% (relative, depends on element and parents) or 1em
+}
